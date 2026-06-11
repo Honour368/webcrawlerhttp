@@ -1,0 +1,24 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project for the Learn HTTP course",
+  "homepage": "https://github.com/Honour368/webcrawlerhttp#readme",
+  "bugs": {
+    "url": "https://github.com/Honour368/webcrawlerhttp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honour368/webcrawlerhttp.git"
+  },
+  "license": "ISC",
+  "author": "Honour Olatunji",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
